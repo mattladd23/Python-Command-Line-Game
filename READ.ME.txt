@@ -1,0 +1,27 @@
+Welcome to Culture Shock UK! (which is often abbreviated as CSUK throughout the file naming and variable assignment of
+this project.)
+
+CSUK is supposed to serve as a light-hearted, educational game for those who are travelling to the UK for the first
+time, or would, perhaps, generally like to learn more about British culture.
+
+The aim of the game is to get from the city airport to Premier Inn and arrive with enough cash and energy. The player
+starts with £50 and 100 energy and must arrive at the Premier Inn with £10 or more and 20 energy or more.
+
+Upon starting a new game, the player is prompted to create a new character including a name, a gender and a country of
+origin. The player subsequently starts in Pyford (a not so imaginative, fictional city name where the game is based)
+International Airport. Within the airport the player can purchase their items to help them throughout the game. The
+game includes save and load functionality which can be implemented at up to three various checkpoints.
+
+A breakdown of all the files is given below:
+
+-- gameplay_csuk.py - RUN THIS FILE TO PLAY GAME. Imports the character class from character_csuk.py and all methods
+                      from levels_csuk to enable the player to interact with the world (Pyford).
+
+-- character_csuk.py - contains character class with all it's attributes and methods.
+
+-- levels_csuk.py - contains all methods which form each level of Pyford.
+
+-- save_csuk.txt - contains saved player data which can be reused when a game is loaded.
+
+-- test_csuk.py - shows evidence of attempted unittests of the character class and some of the methods associated with
+                  it.

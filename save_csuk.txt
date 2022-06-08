@@ -1,0 +1,10 @@
+Aaron
+m
+Honduras
+-8
+100
+True
+False
+True
+Backpack:
+ukulele
