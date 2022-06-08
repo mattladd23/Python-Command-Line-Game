@@ -22,6 +22,3 @@ A breakdown of all the files is given below:
 -- levels_csuk.py - contains all methods which form each level of Pyford.
 
 -- save_csuk.txt - contains saved player data which can be reused when a game is loaded.
-
--- test_csuk.py - shows evidence of attempted unittests of the character class and some of the methods associated with
-                  it.
