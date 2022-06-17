@@ -1,3 +1,6 @@
+This project was completed as part of my 'applications programming' module at university. Below is the full README
+document that was submitted for the assignment. This project received a mark of 83, a fairly high distinciton.
+
 Welcome to Culture Shock UK! (which is often abbreviated as CSUK throughout the file naming and variable assignment of
 this project.)
 
